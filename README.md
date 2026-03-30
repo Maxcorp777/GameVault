@@ -9,7 +9,7 @@
 ---
 
 ### 📝 Project Description
-**GameVault** is a mobile application developed in **React Native** designed for gaming enthusiasts. It allows users to browse the latest industry news through a dynamic carousel, explore a structured catalog of video games, and simulate the registration of new titles using a validated form with real-time feedback.
+**GameVault** is a mobile application developed in React Native designed for gaming enthusiasts. It allows users to browse the latest industry news through a dynamic carousel, explore a structured catalog of video games, and simulate the registration of new titles using a validated
 
 ---
 
